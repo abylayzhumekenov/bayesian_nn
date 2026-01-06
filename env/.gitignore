@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/requirements.txt
+!/Project.toml
+!/renv.lock

@@ -1,0 +1,8 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/*.ipynb
+!/*.py
+!/*.jl
+!/*.R
+!/*.sh
